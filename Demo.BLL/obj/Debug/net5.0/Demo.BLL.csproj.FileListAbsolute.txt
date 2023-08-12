@@ -1,0 +1,45 @@
+E:\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G01 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Aliaa Tarek\Desktop\MVC Project\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

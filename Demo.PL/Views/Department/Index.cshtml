@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Department>
+@{
+    ViewData["Title"] = "All Departments";
+}
+<br />
+<h1>All Departments</h1>
+<br />
+<a class="btn btn-primary" asp-action="Create"> Create New Department</a>
+@if (TempData["Message"] is not null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+@if(Model.Count() > 0)
+{
+    <table class ="table table-striped mt-3 table-hover">
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(D => D.Code)</td>
+                <td>@Html.DisplayNameFor(D => D.Name)</td>
+                <td>@Html.DisplayNameFor(D => D.DateOfCreation)</td>
+                <td>Details</td>
+                <td>Update</td>
+                <td>Delete</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var department in Model)
+            {
+                <tr>
+                    <td>@department.Code</td>
+                    <td>@department.Name</td>
+                    <td>@department.DateOfCreation</td>
+                    <partial name="_ButtonsPartialView" model="@department.Id.ToString()" />
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class=" mt-4 alert alert-warning">
+        <h3> There Is no Departments</h3>
+    </div>
+}
